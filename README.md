@@ -1,4 +1,9 @@
 # UI_Exa_0612
+<img width="1237" height="817" alt="image" src="https://github.com/user-attachments/assets/2c517830-7934-4238-b07f-1663146c61f8" />
+<img width="1195" height="803" alt="image" src="https://github.com/user-attachments/assets/fc4126b4-643c-4221-b038-835065f1d60c" />
+<img width="1203" height="791" alt="image" src="https://github.com/user-attachments/assets/30abf722-b868-429e-9657-cba848ceb310" />
+<img width="456" height="713" alt="image" src="https://github.com/user-attachments/assets/5626cca7-32be-4be3-a607-278956b0660d" />
+<img width="412" height="737" alt="image" src="https://github.com/user-attachments/assets/34b76998-37dc-46c8-a63b-8e834095bd46" />
 
 # myapp
 
